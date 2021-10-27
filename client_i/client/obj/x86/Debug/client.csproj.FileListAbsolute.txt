@@ -1,0 +1,68 @@
+c:\documents and settings\2017\мои документы\visual studio 2010\Projects\client\client\bin\Debug\client.exe
+c:\documents and settings\2017\мои документы\visual studio 2010\Projects\client\client\bin\Debug\client.pdb
+c:\documents and settings\2017\мои документы\visual studio 2010\Projects\client\client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\2017\мои документы\visual studio 2010\Projects\client\client\obj\x86\Debug\client.Form1.resources
+c:\documents and settings\2017\мои документы\visual studio 2010\Projects\client\client\obj\x86\Debug\client.Properties.Resources.resources
+c:\documents and settings\2017\мои документы\visual studio 2010\Projects\client\client\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\2017\мои документы\visual studio 2010\Projects\client\client\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\2017\мои документы\visual studio 2010\Projects\client\client\obj\x86\Debug\client.exe
+c:\documents and settings\2017\мои документы\visual studio 2010\Projects\client\client\obj\x86\Debug\client.pdb
+C:\Users\_savely\Documents\Projects\client\client\bin\Debug\client.exe
+C:\Users\_savely\Documents\Projects\client\client\bin\Debug\client.pdb
+C:\Users\_savely\Documents\Projects\client\client\obj\x86\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\_savely\Documents\Projects\client\client\obj\x86\Debug\client.Form1.resources
+C:\Users\_savely\Documents\Projects\client\client\obj\x86\Debug\client.Properties.Resources.resources
+C:\Users\_savely\Documents\Projects\client\client\obj\x86\Debug\client.csproj.GenerateResource.Cache
+C:\Users\_savely\Documents\Projects\client\client\obj\x86\Debug\client.exe
+C:\Users\_savely\Documents\Projects\client\client\obj\x86\Debug\client.pdb
+C:\Documents and Settings\2017\Мои документы\Visual Studio 2010\Projects\good_chat_v2.0\client\client\obj\x86\Debug\client.exe
+C:\Documents and Settings\2017\Мои документы\Visual Studio 2010\Projects\good_chat_v2.0\client\client\obj\x86\Debug\client.pdb
+C:\Documents and Settings\2017\Мои документы\Visual Studio 2010\Projects\client\client\obj\x86\Debug\client.Form2.resources
+C:\Users\Илья\Desktop\20.12.19(correct)\client\client\obj\x86\Debug\client.csprojAssemblyReference.cache
+C:\Users\Илья\Desktop\20.12.19(correct)\client\client\obj\x86\Debug\client.Form1.resources
+C:\Users\Илья\Desktop\20.12.19(correct)\client\client\obj\x86\Debug\client.Form2.resources
+C:\Users\Илья\Desktop\20.12.19(correct)\client\client\obj\x86\Debug\client.Properties.Resources.resources
+C:\Users\Илья\Desktop\20.12.19(correct)\client\client\obj\x86\Debug\client.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\20.12.19(correct)\client\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\20.12.19(correct)\client\client\obj\x86\Debug\client.exe
+C:\Users\Илья\Desktop\20.12.19(correct)\client\client\obj\x86\Debug\client.pdb
+C:\Users\Илья\Desktop\20.12.19(correct)\client\client\bin\Debug\client.exe
+C:\Users\Илья\Desktop\20.12.19(correct)\client\client\bin\Debug\client.pdb
+C:\Users\_savely\Documents\Visual Studio 2017\Projects\client_i\client\bin\Debug\client.exe
+C:\Users\_savely\Documents\Visual Studio 2017\Projects\client_i\client\bin\Debug\client.pdb
+C:\Users\_savely\Documents\Visual Studio 2017\Projects\client_i\client\obj\x86\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\_savely\Documents\Visual Studio 2017\Projects\client_i\client\obj\x86\Debug\client.Form1.resources
+C:\Users\_savely\Documents\Visual Studio 2017\Projects\client_i\client\obj\x86\Debug\client.Form2.resources
+C:\Users\_savely\Documents\Visual Studio 2017\Projects\client_i\client\obj\x86\Debug\client.Properties.Resources.resources
+C:\Users\_savely\Documents\Visual Studio 2017\Projects\client_i\client\obj\x86\Debug\client.csproj.GenerateResource.Cache
+C:\Users\_savely\Documents\Visual Studio 2017\Projects\client_i\client\obj\x86\Debug\client.exe
+C:\Users\_savely\Documents\Visual Studio 2017\Projects\client_i\client\obj\x86\Debug\client.pdb
+C:\RSA\client_i\client\bin\Debug\client.exe
+C:\RSA\client_i\client\bin\Debug\client.pdb
+C:\RSA\client_i\client\obj\x86\Debug\client.csprojAssemblyReference.cache
+C:\RSA\client_i\client\obj\x86\Debug\client.Form1.resources
+C:\RSA\client_i\client\obj\x86\Debug\client.Form2.resources
+C:\RSA\client_i\client\obj\x86\Debug\client.Properties.Resources.resources
+C:\RSA\client_i\client\obj\x86\Debug\client.csproj.GenerateResource.cache
+C:\RSA\client_i\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\RSA\client_i\client\obj\x86\Debug\client.exe
+C:\RSA\client_i\client\obj\x86\Debug\client.pdb
+C:\Users\_savely\Desktop\RSA\client_i\client\bin\Debug\client.exe
+C:\Users\_savely\Desktop\RSA\client_i\client\bin\Debug\client.pdb
+C:\Users\_savely\Desktop\RSA\client_i\client\obj\x86\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\_savely\Desktop\RSA\client_i\client\obj\x86\Debug\client.Form1.resources
+C:\Users\_savely\Desktop\RSA\client_i\client\obj\x86\Debug\client.Form2.resources
+C:\Users\_savely\Desktop\RSA\client_i\client\obj\x86\Debug\client.Properties.Resources.resources
+C:\Users\_savely\Desktop\RSA\client_i\client\obj\x86\Debug\client.csproj.GenerateResource.Cache
+C:\Users\_savely\Desktop\RSA\client_i\client\obj\x86\Debug\client.exe
+C:\Users\_savely\Desktop\RSA\client_i\client\obj\x86\Debug\client.pdb
+C:\Users\Илья\Desktop\_final\client_i\client\bin\Debug\client.exe
+C:\Users\Илья\Desktop\_final\client_i\client\bin\Debug\client.pdb
+C:\Users\Илья\Desktop\_final\client_i\client\obj\x86\Debug\client.csprojAssemblyReference.cache
+C:\Users\Илья\Desktop\_final\client_i\client\obj\x86\Debug\client.Form1.resources
+C:\Users\Илья\Desktop\_final\client_i\client\obj\x86\Debug\client.Form2.resources
+C:\Users\Илья\Desktop\_final\client_i\client\obj\x86\Debug\client.Properties.Resources.resources
+C:\Users\Илья\Desktop\_final\client_i\client\obj\x86\Debug\client.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\_final\client_i\client\obj\x86\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\_final\client_i\client\obj\x86\Debug\client.exe
+C:\Users\Илья\Desktop\_final\client_i\client\obj\x86\Debug\client.pdb
